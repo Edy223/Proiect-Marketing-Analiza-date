@@ -1,0 +1,25 @@
+produs_id,produs,categorie,pret,cost
+P01,Căști Bluetooth,Electronice,249,157.41
+P02,Smartwatch Fit,Electronice,599,318.47
+P03,Boxă portabilă,Electronice,199,130.86
+P04,Powerbank 20000mAh,Electronice,129,78.59
+P05,Cameră Web HD,Electronice,159,68.09
+P06,Geacă de iarnă,Modă,399,276.38
+P07,Sneakers Urban,Modă,329,206.72
+P08,Rucsac City,Modă,179,113.81
+P09,Ochelari de soare,Modă,149,65.33
+P10,Ceas clasic,Modă,449,240.27
+P11,Aspirator robot,Casă & Grădină,899,459.6
+P12,Set oale inox,Casă & Grădină,349,236.63
+P13,Lampă LED smart,Casă & Grădină,119,70.59
+P14,Difuzor aromaterapie,Casă & Grădină,89,57.57
+P15,Grătar electric,Casă & Grădină,279,148.71
+P16,Set ser facial,Frumusețe,189,88.48
+P17,Parfum Noir 50ml,Frumusețe,259,146.69
+P18,Uscător de păr Pro,Frumusețe,229,95.98
+P19,Trusă machiaj,Frumusețe,139,90.11
+P20,Saltea yoga,Sport,99,58.36
+P21,Gantere reglabile,Sport,299,187.6
+P22,Bicicletă fitness,Sport,1299,657.76
+P23,Sticlă termică,Sport,69,47.69
+P24,Bandă elastică set,Sport,49,32.73
